@@ -1,18 +1,3 @@
-# Assignment 4: Build and Deploy to the Quest
-
-COMP 590 – Vasin (Ted) Thavisin
-
-**Video:** [paste video link]
-**APK:** download `Run1.apk` from the [Releases](https://github.com/tedthavisin/Assignment-4/releases) page
-
-## Setup
-
-- Unity 6000.5.9f1 (Universal 3D / URP), built on macOS
-- Meta XR All-in-One SDK (v207) with OpenXR, Meta Quest build profile
-- Deployed with **File > Build And Run** over USB (Link mode is Windows-only)
-
-## Step 6: Sunset on the Lake
-
 A calm VR scene where you stand at the end of a wooden dock and watch the sun set over a lake. You can look around and lean over the edge of the dock, and the Touch controllers show up in your hands.
 
 The scene is made from Unity primitives and standard URP materials:
